@@ -1,4 +1,4 @@
-package com.ty.board;
+package com.epam.board;
 
 public class Location {
 

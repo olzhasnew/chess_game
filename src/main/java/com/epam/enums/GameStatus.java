@@ -1,4 +1,4 @@
-package com.ty.enums;
+package com.epam.enums;
 
 public enum GameStatus {
 

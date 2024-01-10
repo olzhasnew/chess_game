@@ -1,6 +1,6 @@
-package com.ty.board;
+package com.epam.board;
 
-import com.ty.piece.Piece;
+import com.epam.piece.Piece;
 
 public class Cell {
 
